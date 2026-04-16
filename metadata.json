@@ -1,0 +1,6 @@
+{
+  "name": "PrintCalc",
+  "description": "Technical printing coverage area calculator for packaging and polybags. Calculate ink usage and surface coverage with precision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
